@@ -1,4 +1,12 @@
-# Web Activity Time Tracker <a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" rel="nofollow"><img src="https://user-images.githubusercontent.com/768070/51865757-87d45300-2347-11e9-84fd-bafff5b036b2.png" alt="Add to Chrome" style="max-width:100%;"></a>
+# Web Activity Time Tracker
+
+#### Brief
+
+Hello, here's sweetsora233. I used to love using this plugin, but it stops update updating 4 months ago. I hope to continue to improve this project. If you have some good ideas, just give it a issue(Chinese or English, Chinese is better). When I resolve some problems, a new version will see you again in Chrome and Edge.
+
+The following is the README of the original author.
+
+
 
 Web Activity Time Tracker keeps track of how much time you spend on the web and presents the stats in a useful and intuitive way. 
 You can set a daily visit limit for sites and block it after the expiration of the limit. 
@@ -31,4 +39,4 @@ Web Activity Time Tracker is available via the official [Chrome Web Store](https
 
 # License
 
-This work is licensed under a MIT License.
+This work is licensed under a GNU General Public License v3.0.
